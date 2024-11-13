@@ -1,0 +1,22 @@
+
+/* Este é um arquivo css própriamente, e a recomendação é que seja utilizado desta maneira para melhor leitura do código e manutenção do mesmo */
+
+h2 {
+    border: solid red 10px;
+    margin: 10px;
+    padding: 10px;
+}
+
+p {
+    border: solid red 10px;
+    margin: 10px;
+    padding: 10px;
+}
+
+h2, p {
+    background-color: aqua;
+}
+
+body {
+    background-color: black;
+}
